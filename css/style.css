@@ -1,0 +1,13 @@
+body {
+    background-color: #f4f6f9;
+}
+
+.form-card {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.form-control:disabled {
+    background-color: #e9ecef;
+    cursor: not-allowed;
+}
