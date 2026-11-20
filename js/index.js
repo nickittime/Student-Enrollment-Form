@@ -4,7 +4,7 @@ const jpdbIRL = "/api/irl";
 const jpdbIML = "/api/iml";
 const dbName = "SCHOOL-DB";
 const relName = "STUDENT-TABLE";
-const connToken = "90933382|-31949150613564422|90902774";
+const connToken = "YOUR_JPDB_CONNECTION_TOKEN";
 
 const rollNoEl = document.getElementById("rollNo");
 const fullNameEl = document.getElementById("fullName");
